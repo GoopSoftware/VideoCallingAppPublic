@@ -27,11 +27,13 @@ Built to run on **Android**, **iOS**, and **Web** from a single Flutter codebase
 ---
 
 ## Learning Outcomes
+
 This project Demonstrates:
-  Implementing WebRTC in Flutter
-  Using Firebase for the signaling server
-  Managing peer connections
-  Handling async media streams and UI state updates
+
+- Implementing **WebRTC** in Flutter  
+- Using **Firebase** as a lightweight signaling server  
+- Managing **peer connections** and ICE negotiation  
+- Handling **asynchronous media streams** and UI state updates  
 
 ---
 
