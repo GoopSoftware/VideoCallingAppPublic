@@ -26,6 +26,16 @@ Built to run on **Android**, **iOS**, and **Web** from a single Flutter codebase
 
 ---
 
+## Demo
+
+Here’s a preview of the app in action:
+
+| Lobby Screen | Active Call |
+|---------------|-------------|
+| ![Lobby Screen](Screenshots/Screenshot%202025-10-31%20124542.png) | ![Active Call](Screenshots/Screenshot%202025-10-31%20124554.png) |
+
+---
+
 ## Tech Stack
 
 | Layer | Tools |
