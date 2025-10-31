@@ -1,11 +1,11 @@
-# 📞 Cross-Platform Video Calling App
+# Cross-Platform Video Calling App
 
 A real-time, cross-platform **video calling application** built with **Flutter**, **WebRTC**, and **Firebase**.  
 This project demonstrates a full implementation of peer-to-peer (P2P) communication, signaling, and session management — all wrapped in a modern, scalable mobile UI.
 
 ---
 
-## 🚀 Overview
+## Overview
 
 This app allows two or more users to connect via secure, low-latency video calls using WebRTC.  
 It leverages Firebase for user authentication and signaling, with real-time updates to manage session creation, joining, and teardown.
@@ -14,7 +14,7 @@ Built to run on **Android**, **iOS**, and **Web** from a single Flutter codebase
 
 ---
 
-## 🧠 Features
+## Features
 
 ✅ **Real-Time Video Calls** — Uses WebRTC for peer-to-peer streaming  
 ✅ **Firebase Signaling** — Handles call offers, answers, and ICE candidates  
@@ -26,7 +26,7 @@ Built to run on **Android**, **iOS**, and **Web** from a single Flutter codebase
 
 ---
 
-## 🧩 Tech Stack
+## Tech Stack
 
 | Layer | Tools |
 |-------|--------|
